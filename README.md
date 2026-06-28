@@ -59,10 +59,10 @@ Also develop **Roblox** projects in LuaU, bridging backend logic with interactiv
 
 ---
 
-## Trophies
+## Stats Summary
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=JonesCharles&theme=darkhub&no-frame=true&column=4&margin-w=8"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JonesCharles&theme=github_dark"/>
 </div>
 
 ---

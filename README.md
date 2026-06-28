@@ -10,16 +10,17 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0d0000?style=for-the-badge&logo=python&logoColor=cc2222)
-![Java](https://img.shields.io/badge/Java-0d0000?style=for-the-badge&logo=openjdk&logoColor=cc2222)
-![NodeJS](https://img.shields.io/badge/Node.js-0d0000?style=for-the-badge&logo=node.js&logoColor=cc2222)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d0000?style=for-the-badge&logo=typescript&logoColor=cc2222)
-![LuaU](https://img.shields.io/badge/LuaU-0d0000?style=for-the-badge&logo=lua&logoColor=cc2222)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0000?style=for-the-badge&logo=postgresql&logoColor=cc2222)
-![MySQL](https://img.shields.io/badge/MySQL-0d0000?style=for-the-badge&logo=mysql&logoColor=cc2222)
-![Docker](https://img.shields.io/badge/Docker-0d0000?style=for-the-badge&logo=docker&logoColor=cc2222)
-![Linux](https://img.shields.io/badge/Arch_Linux-0d0000?style=for-the-badge&logo=archlinux&logoColor=cc2222)
-![Git](https://img.shields.io/badge/Git-0d0000?style=for-the-badge&logo=git&logoColor=cc2222)
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,lua&theme=dark"/>
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite&theme=dark"/>
+
+**Tools & DevOps**
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode&theme=dark"/>
 
 </div>
 

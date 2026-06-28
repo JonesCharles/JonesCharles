@@ -47,13 +47,13 @@ Also develop **Roblox** projects in LuaU, bridging backend logic with interactiv
 
 <div align="center">
 
-<img width="96%" src="https://github-readme-streak-stats.herokuapp.com?user=JonesCharles&theme=github-dark-blue&hide_border=true&ring=8B0000&fire=cc2222&currStreakLabel=cc2222&background=0d0000"/>
+<img width="96%" src="https://github-readme-streak-stats.herokuapp.com?user=JonesCharles&theme=blood&hide_border=true&background=0d0000&ring=8B0000&fire=cc2222&currStreakLabel=cc2222"/>
 
 </div>
 
 <div align="center">
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=JonesCharles&theme=github-compact&hide_border=true&color=cc2222&line=8B0000&point=ffffff&bg_color=0d0000"/>
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=JonesCharles&theme=github-compact&hide_border=true&color=cc2222&line=8B0000&point=cc2222&bg_color=0d0000&area=true&area_color=8B0000"/>
 
 </div>
 

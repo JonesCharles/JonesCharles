@@ -40,20 +40,20 @@ Also develop **Roblox** projects in LuaU, bridging backend logic with interactiv
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Jones2451&show_icons=true&theme=github_dark&hide_border=true&title_color=cc2222&icon_color=cc2222&ring_color=8B0000&bg_color=0d0000"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jones2451&layout=compact&theme=github_dark&hide_border=true&title_color=cc2222&bg_color=0d0000"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=JonesCharles&show_icons=true&theme=github_dark&hide_border=true&title_color=cc2222&icon_color=cc2222&ring_color=8B0000&bg_color=0d0000"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonesCharles&layout=compact&theme=github_dark&hide_border=true&title_color=cc2222&bg_color=0d0000"/>
 
 </div>
 
 <div align="center">
 
-<img width="96%" src="https://github-readme-streak-stats.herokuapp.com?user=Jones2451&theme=github-dark-blue&hide_border=true&ring=8B0000&fire=cc2222&currStreakLabel=cc2222&background=0d0000"/>
+<img width="96%" src="https://github-readme-streak-stats.herokuapp.com?user=JonesCharles&theme=github-dark-blue&hide_border=true&ring=8B0000&fire=cc2222&currStreakLabel=cc2222&background=0d0000"/>
 
 </div>
 
 <div align="center">
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jones2451&theme=github-compact&hide_border=true&color=cc2222&line=8B0000&point=ffffff&bg_color=0d0000"/>
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=JonesCharles&theme=github-compact&hide_border=true&color=cc2222&line=8B0000&point=ffffff&bg_color=0d0000"/>
 
 </div>
 
@@ -62,7 +62,7 @@ Also develop **Roblox** projects in LuaU, bridging backend logic with interactiv
 ## Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Jones2451&theme=darkhub&no-frame=true&column=4&margin-w=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=JonesCharles&theme=darkhub&no-frame=true&column=4&margin-w=8"/>
 </div>
 
 ---
@@ -71,7 +71,7 @@ Also develop **Roblox** projects in LuaU, bridging backend logic with interactiv
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/Jones2451-0d0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jones2451)
+[![GitHub](https://img.shields.io/badge/JonesCharles-0d0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JonesCharles)
 [![Gmail](https://img.shields.io/badge/jonescharles2669-0d0000?style=for-the-badge&logo=gmail&logoColor=cc2222)](mailto:jonescharles2669@gmail.com)
 [![Instagram](https://img.shields.io/badge/@heyyjones-0d0000?style=for-the-badge&logo=instagram&logoColor=cc2222)](https://www.instagram.com/heyyjones/)
 [![Discord](https://img.shields.io/badge/_skyzoe_-0d0000?style=for-the-badge&logo=discord&logoColor=cc2222)](https://discord.com/users/_skyzoe_)
@@ -80,7 +80,7 @@ Also develop **Roblox** projects in LuaU, bridging backend logic with interactiv
 
 <div align="center">
 
-![Views](https://komarev.com/ghpvc/?username=Jones2451&style=for-the-badge&color=8B0000&label=PROFILE+VIEWS)
+![Views](https://komarev.com/ghpvc/?username=JonesCharles&style=for-the-badge&color=8B0000&label=PROFILE+VIEWS)
 
 </div>
 

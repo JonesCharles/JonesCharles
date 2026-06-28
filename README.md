@@ -59,29 +59,6 @@ Also develop **Roblox** projects in LuaU, bridging backend logic with interactiv
 
 ---
 
-## Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=JonesCharles&show_icons=true&theme=github_dark&hide_border=true&title_color=cc2222&icon_color=cc2222&ring_color=8B0000&bg_color=0d0000"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonesCharles&layout=compact&theme=github_dark&hide_border=true&title_color=cc2222&bg_color=0d0000"/>
-
-</div>
-
-<div align="center">
-
-<img width="96%" src="https://github-readme-streak-stats.herokuapp.com?user=JonesCharles&theme=blood&hide_border=true&background=0d0000&ring=8B0000&fire=cc2222&currStreakLabel=cc2222"/>
-
-</div>
-
-<div align="center">
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=JonesCharles&theme=github-compact&hide_border=true&color=cc2222&line=8B0000&point=cc2222&bg_color=0d0000&area=true&area_color=8B0000"/>
-
-</div>
-
----
-
 ## Contact
 
 <div align="center">

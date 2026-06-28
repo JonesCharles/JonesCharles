@@ -71,10 +71,10 @@ Also develop **Roblox** projects in LuaU, bridging backend logic with interactiv
 
 <div align="center">
 
-![GitHub](https://img.shields.io/badge/JonesCharles-0d0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JonesCharles)
-![Gmail](https://img.shields.io/badge/jonescharles2669-0d0000?style=for-the-badge&logo=gmail&logoColor=cc2222)](mailto:jonescharles2669@gmail.com)
-![Instagram](https://img.shields.io/badge/@heyyjones-0d0000?style=for-the-badge&logo=instagram&logoColor=cc2222)](https://www.instagram.com/heyyjones/)
-![Discord](https://img.shields.io/badge/_skyzoe_-0d0000?style=for-the-badge&logo=discord&logoColor=cc2222)](https://discord.com/users/_skyzoe_)
+[![GitHub](https://img.shields.io/badge/GitHub-0d0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JonesCharles)
+[![Gmail](https://img.shields.io/badge/Gmail-0d0000?style=for-the-badge&logo=gmail&logoColor=cc2222)](mailto:jonescharles2669@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-0d0000?style=for-the-badge&logo=instagram&logoColor=cc2222)](https://www.instagram.com/heyyjones/)
+[![Discord](https://img.shields.io/badge/Discord-0d0000?style=for-the-badge&logo=discord&logoColor=cc2222)](https://discord.com/users/_skyzoe_)
 
 </div>
 

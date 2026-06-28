@@ -1,120 +1,47 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=JONES%20CHARLES&fontColor=ffffff&color=0d0000,8B0000,3d0000&fontAlignY=42&desc=Backend%20Developer%20%7C%20Systems%20Architect&descAlignY=60&descColor=cc4444&animation=fadeIn&fontSize=54"/>
-
 </div>
 
 <div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=2600&pause=900&color=CC2222&center=true&vCenter=true&width=680&lines=Backend+Developer+%2F%2F+Systems+Architect;Python+%7C+Java+%7C+Node.js+%7C+LuaU;Clean+Architecture+%7C+Scalable+APIs;Arch+Linux+%2B+Hyprland+%2F%2F+Pernambuco+%F0%9F%87%A7%F0%9F%87%B7;%22Code+should+survive+the+chaos.%22" />
-
 </div>
 
----
+<br/>
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║            // DOSSIER :: CONFIDENTIAL                           ║
-╠══════════════════════════════════════════════════════════════════╣
-║  CODENAME     ──  skyzoe                                        ║
-║  ROLE         ──  Backend Developer / Systems Architect         ║
-║  LOCATION     ──  Pernambuco, Brazil 🇧🇷                         ║
-║  FORMATION    ──  Systems Development Technician                ║
-║  STACK        ──  Python · Java · Node.js · LuaU · SQL          ║
-║  SYSTEM       ──  Windows · Arch Linux + Hyprland               ║
-║  EDITOR       ──  VSCode                                        ║
-╠══════════════════════════════════════════════════════════════════╣
-║  STATUS       ──  ● ONLINE                                      ║
-║  CLEARANCE    ──  [████████████████████████████████] FULL       ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+![Python](https://img.shields.io/badge/Python-0d0000?style=for-the-badge&logo=python&logoColor=cc2222)
+![Java](https://img.shields.io/badge/Java-0d0000?style=for-the-badge&logo=openjdk&logoColor=cc2222)
+![NodeJS](https://img.shields.io/badge/Node.js-0d0000?style=for-the-badge&logo=node.js&logoColor=cc2222)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d0000?style=for-the-badge&logo=typescript&logoColor=cc2222)
+![LuaU](https://img.shields.io/badge/LuaU-0d0000?style=for-the-badge&logo=lua&logoColor=cc2222)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0000?style=for-the-badge&logo=postgresql&logoColor=cc2222)
+![MySQL](https://img.shields.io/badge/MySQL-0d0000?style=for-the-badge&logo=mysql&logoColor=cc2222)
+![Docker](https://img.shields.io/badge/Docker-0d0000?style=for-the-badge&logo=docker&logoColor=cc2222)
+![Linux](https://img.shields.io/badge/Arch_Linux-0d0000?style=for-the-badge&logo=archlinux&logoColor=cc2222)
+![Git](https://img.shields.io/badge/Git-0d0000?style=for-the-badge&logo=git&logoColor=cc2222)
 
 </div>
 
 ---
 
-## `// ABOUT`
+## About
 
-Desenvolvedor Backend com foco em **arquitetura limpa**, **APIs REST escaláveis** e **integrações com IA**.  
-Construo sistemas que sobrevivem ao caos — organizados, rápidos e fáceis de manter.
+Backend developer focused on **clean architecture**, scalable REST APIs, and AI integrations.
+I build systems that hold up under pressure — organized, fast, and easy to maintain.
 
-Também desenvolvo projetos para **Roblox** com LuaU, unindo lógica de backend e criatividade dentro de ambientes interativos.
+Also develop **Roblox** projects in LuaU, bridging backend logic with interactive environments.
 
 > *"Code should survive the chaos."*
 
 ---
 
-## `// TECH STACK`
-
-### Languages & Runtimes
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,nodejs,lua&theme=dark"/>
-</p>
-
-### Databases
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgresql&theme=dark"/>
-</p>
-
-### Tools & Environment
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&theme=dark"/>
-</p>
-
----
-
-## `// IDENTITY CARD`
+## Stats
 
 <div align="center">
 
-<table>
-<tr>
-<td>
-
-```
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃  // IDENTITY :: BACKEND DEVELOPER                    ┃
-┃                                                      ┃
-┃  NAME       ──  Jones Charles                        ┃
-┃  CODENAME   ──  skyzoe                               ┃
-┃  ROLE       ──  Backend Developer                    ┃
-┃  LOCATION   ──  Pernambuco, Brazil 🇧🇷                ┃
-┃  FORMATION  ──  Systems Development Technician       ┃
-┃  SYSTEM     ──  Arch Linux + Hyprland · Windows      ┃
-┃  EDITOR     ──  VSCode                               ┃
-┠──────────────────────────────────────────────────────┨
-┃  STACK      ──  Python · Java · Node.js · LuaU       ┃
-┃             ──  MySQL · PostgreSQL · Docker · Git    ┃
-┠──────────────────────────────────────────────────────┨
-┃  FOCUS      ──  Scalable APIs · AI Integrations      ┃
-┃             ──  Clean Architecture · Roblox Dev      ┃
-┠──────────────────────────────────────────────────────┨
-┃  STATUS     ──  ● ONLINE                             ┃
-┃                                                      ┃
-┃  "Code should survive the chaos."                    ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## `// GITHUB STATS`
-
-<div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Jones2451&show_icons=true&theme=github_dark&hide_border=true&title_color=cc2222&icon_color=cc2222&ring_color=8B0000&bg_color=0d0000"/>
-&nbsp;
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jones2451&layout=compact&theme=github_dark&hide_border=true&title_color=cc2222&bg_color=0d0000"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Jones2451&show_icons=true&theme=github_dark&hide_border=true&title_color=cc2222&icon_color=cc2222&ring_color=8B0000&bg_color=0d0000"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jones2451&layout=compact&theme=github_dark&hide_border=true&title_color=cc2222&bg_color=0d0000"/>
 
 </div>
 
@@ -132,42 +59,28 @@ Também desenvolvo projetos para **Roblox** com LuaU, unindo lógica de backend 
 
 ---
 
-## `// TROPHIES`
+## Trophies
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Jones2451&theme=darkhub&no-frame=true&column=4&margin-w=8&margin-h=8"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=Jones2451&theme=darkhub&no-frame=true&column=4&margin-w=8"/>
 </div>
 
 ---
 
-## `// PROFILE SUMMARY`
+## Contact
 
 <div align="center">
 
-<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jones2451&theme=github_dark"/>
+[![GitHub](https://img.shields.io/badge/Jones2451-0d0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jones2451)
+[![Gmail](https://img.shields.io/badge/jonescharles2669-0d0000?style=for-the-badge&logo=gmail&logoColor=cc2222)](mailto:jonescharles2669@gmail.com)
+[![Instagram](https://img.shields.io/badge/@heyyjones-0d0000?style=for-the-badge&logo=instagram&logoColor=cc2222)](https://www.instagram.com/heyyjones/)
+[![Discord](https://img.shields.io/badge/_skyzoe_-0d0000?style=for-the-badge&logo=discord&logoColor=cc2222)](https://discord.com/users/_skyzoe_)
 
 </div>
 
----
-
-## `// CONTACT`
-
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Jones2451-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jones2451)
-[![Gmail](https://img.shields.io/badge/Gmail-jonescharles2669-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonescharles2669@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-@heyyjones-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/heyyjones/)
-[![Discord](https://img.shields.io/badge/Discord-_skyzoe_-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/_skyzoe_)
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Jones2451&style=for-the-badge&color=8B0000&label=PROFILE+VIEWS)
+![Views](https://komarev.com/ghpvc/?username=Jones2451&style=for-the-badge&color=8B0000&label=PROFILE+VIEWS)
 
 </div>
 
